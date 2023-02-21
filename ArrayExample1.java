@@ -1,3 +1,4 @@
+package arrayprogramm;
 
 public class ArrayExample1 {
 
