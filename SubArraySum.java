@@ -49,7 +49,8 @@ public class SubArraySum {
         int arr[]={1,2,3,7,5};
         int n=arr.length;
         int sum=12;
-        subArraySum(arr,n, sum);
+      ArrayList<Integer> al= subArraySum(arr,n, sum);
+       System.out.println(al);
         
     }
 }
